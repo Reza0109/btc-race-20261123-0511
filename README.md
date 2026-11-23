@@ -1,5 +1,11 @@
 # BTC Dip-Buy Bot — btc-race-24h-20261123-0511
 
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Reza0109/btc-race-20261123-0511/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Reza0109/btc-race-20261123-0511/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/btc-race-24h-20261123-0511)'s "Race a BTC trading bot live for 24 hours" bounty, $50 in USDC.
+
 Long-only, one position at a time, full size ($1,000 start). Buys a 30-minute
 dip once the last 5 minutes turn positive, then exits at a fixed +1.2%
 take-profit or a fixed −1.2% stop-loss, both measured against the close of the
